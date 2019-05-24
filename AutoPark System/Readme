@@ -1,3 +1,5 @@
+The projects UML is in the file NYP-project....pdf
+
 This is a Project that I have made for my Java course. There are 10 classes including main. Vehicle class is an 
 interface and subscribedVehicle, RegularVehicle, OfficialVehicle Classes implements this class. And also there is 
 ParkRecord Class which records which cars entered to AutoPark and this class has an association relation with 
